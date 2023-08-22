@@ -10,6 +10,7 @@
 [![Code Quality: Java](https://img.shields.io/lgtm/grade/java/g/mapstruct/mapstruct.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mapstruct/mapstruct/context:java)
 [![Total Alerts](https://img.shields.io/lgtm/alerts/g/mapstruct/mapstruct.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mapstruct/mapstruct/alerts)
 
+
 * [What is MapStruct?](#what-is-mapstruct)
 * [Requirements](#requirements)
 * [Using MapStruct](#using-mapstruct)
